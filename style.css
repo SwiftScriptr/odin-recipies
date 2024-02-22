@@ -1,0 +1,11 @@
+.font,body{
+  font-family: arial, tahoma, serif, sans, calibri;
+  font-size: 12px;
+  font-weight: 4;
+  background-color:RGB(100,130,58);
+}
+
+img{
+  height: auto;
+  width: 300px;
+}

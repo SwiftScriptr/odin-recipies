@@ -1,11 +1,11 @@
 .font,body{
   font-family: arial, tahoma, serif, sans, calibri;
   font-size: 12px;
-  font-weight: 4;
-  background-color:RGB(100,130,58);
+  font-weight: 400;
+  background-color:rgba(100,130,58,0.712);
 }
 
 img{
   height: auto;
-  width: 300px;
+  width: 400px;
 }
